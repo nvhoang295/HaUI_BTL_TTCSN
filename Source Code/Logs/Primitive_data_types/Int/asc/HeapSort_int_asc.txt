@@ -1,0 +1,34 @@
+Datas//int//asc//int_1000_asc.txt
+0.001324 seconds
+______________________
+Datas//int//asc//int_2000_asc.txt
+0.002561 seconds
+______________________
+Datas//int//asc//int_3000_asc.txt
+0.004229 seconds
+______________________
+Datas//int//asc//int_5000_asc.txt
+0.007429 seconds
+______________________
+Datas//int//asc//int_10000_asc.txt
+0.015725 seconds
+______________________
+Datas//int//asc//int_20000_asc.txt
+0.033732 seconds
+______________________
+Datas//int//asc//int_30000_asc.txt
+0.052452 seconds
+______________________
+Datas//int//asc//int_50000_asc.txt
+0.092352 seconds
+______________________
+Datas//int//asc//int_100000_asc.txt
+0.196847 seconds
+______________________
+Datas//int//asc//int_200000_asc.txt
+0.420425 seconds
+______________________
+Datas//int//asc//int_300000_asc.txt
+0.641021 seconds
+______________________
+

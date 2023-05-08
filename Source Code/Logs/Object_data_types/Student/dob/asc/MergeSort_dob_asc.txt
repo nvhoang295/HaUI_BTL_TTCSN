@@ -1,0 +1,22 @@
+Datas//Object_data_types//Student//dob//asc//dob_1000_asc.txt
+0.176381 seconds
+______________________
+Datas//Object_data_types//Student//dob//asc//dob_2000_asc.txt
+0.387919 seconds
+______________________
+Datas//Object_data_types//Student//dob//asc//dob_3000_asc.txt
+0.601689 seconds
+______________________
+Datas//Object_data_types//Student//dob//asc//dob_5000_asc.txt
+1.076664 seconds
+______________________
+Datas//Object_data_types//Student//dob//asc//dob_10000_asc.txt
+2.299980 seconds
+______________________
+Datas//Object_data_types//Student//dob//asc//dob_20000_asc.txt
+5.025385 seconds
+______________________
+Datas//Object_data_types//Student//dob//asc//dob_30000_asc.txt
+7.943661 seconds
+______________________
+

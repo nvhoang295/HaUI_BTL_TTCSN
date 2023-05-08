@@ -1,0 +1,5 @@
+﻿  AlgorSelectionView.cpp
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\AlgorSelectionView.cpp(54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\AlgorSelectionView.cpp(57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\AlgorSelectionView.cpp(58,92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication3.vcxproj -> D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\x64\Debug\ConsoleApplication3.exe

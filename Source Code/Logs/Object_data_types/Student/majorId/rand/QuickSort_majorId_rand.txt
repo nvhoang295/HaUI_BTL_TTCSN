@@ -1,0 +1,22 @@
+Datas//Object_data_types//Student//majorId//rand//majorId_1000_rand.txt
+0.188688 seconds
+______________________
+Datas//Object_data_types//Student//majorId//rand//majorId_2000_rand.txt
+0.406921 seconds
+______________________
+Datas//Object_data_types//Student//majorId//rand//majorId_3000_rand.txt
+0.645922 seconds
+______________________
+Datas//Object_data_types//Student//majorId//rand//majorId_5000_rand.txt
+1.087897 seconds
+______________________
+Datas//Object_data_types//Student//majorId//rand//majorId_10000_rand.txt
+2.391699 seconds
+______________________
+Datas//Object_data_types//Student//majorId//rand//majorId_20000_rand.txt
+4.879601 seconds
+______________________
+Datas//Object_data_types//Student//majorId//rand//majorId_30000_rand.txt
+8.054120 seconds
+______________________
+

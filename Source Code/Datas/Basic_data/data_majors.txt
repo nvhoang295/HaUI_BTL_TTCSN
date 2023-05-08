@@ -1,0 +1,51 @@
+Thiết kế thời trang|7210404
+Tiếng Việt và Văn hóa Việt nam|7220101
+Ngôn ngữ Anh|7220201
+Ngôn ngữ Trung Quốc|7220204
+Ngôn ngữ Nhật|7220209
+Ngôn ngữ Hàn Quốc|7220210
+Ngôn ngữ học|7229020
+Kinh tế đầu tư|7310104
+Trung Quốc học|7310612
+Công nghệ đa phương tiện|7320113
+Quản trị kinh doanh|7340101
+Marketing|7340115
+Phân tích dữ liệu kinh doanh|7340125
+Tài chính - ngân hàng|7340201
+Kế toán|7340301
+Kiểm toán|7340302
+Quản trị nhân lực|7340404
+Quản trị văn phòng|7340406
+Khoa học máy tính|7480101
+Mạng máy tính và truyền thông dữ liệu|7480102
+Kỹ thuật phần mềm|7480103
+Hệ thống thông tin|7480104
+Công nghệ kỹ thuật máy tính|7480108
+Công nghệ thông tin|7480201
+Công nghệ kỹ thuật cơ khí|7510201
+Công nghệ kỹ thuật điện tử|7510203
+Công nghệ kỹ thuật ô tô|7510205
+Công nghệ kỹ thuật nhiệt|7510206
+Robot và trí tuệ nhân tạo|7510209
+Công nghệ kỹ thuật điện, điện tử|7510301
+Năng lượng tái tạo|7519007
+Công nghệ kỹ thuật – Viễn thông|7510302
+Công nghệ kỹ thuật điện tử y sinh|75103021
+Công nghệ kỹ thuật điều khiển và tự động hóa|7510303
+Kỹ thuật sản xuất thông minh|75103031
+Công nghệ kỹ thuật hóa học|7510401
+Công nghệ kỹ thuật môi trường|7510406
+Logistics và quản lý chuỗi cung ứng|7510605
+Công nghệ kỹ thuật khuôn mẫu|7519003
+Thiết kế cơ khí và kiểu dáng công nghiệp|7510213
+Công nghệ kỹ thuật cơ điện tử ô tô|7510204
+Kỹ thuật hệ thống công nghiệp|7520118
+Kỹ thuật cơ khí động lực|7520116
+Công nghệ thực phẩm|7540101
+Công nghệ vật liệu dệt, may|7540203
+Công nghệ dệt, may|7540204
+Hóa dược|7720203
+Du lịch|7810101
+Quản trị dịch vụ du lịch và lữ hành|7810103
+Quản trị khách sạn|7810201
+Quản trị nhà hàng và dịch vụ ăn uống|7810202

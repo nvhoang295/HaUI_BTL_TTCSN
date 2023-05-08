@@ -1,0 +1,22 @@
+Datas//Object_data_types//Student//gpa//desc//gpa_1000_desc.txt
+0.159969 seconds
+______________________
+Datas//Object_data_types//Student//gpa//desc//gpa_2000_desc.txt
+0.350347 seconds
+______________________
+Datas//Object_data_types//Student//gpa//desc//gpa_3000_desc.txt
+0.538508 seconds
+______________________
+Datas//Object_data_types//Student//gpa//desc//gpa_5000_desc.txt
+0.991298 seconds
+______________________
+Datas//Object_data_types//Student//gpa//desc//gpa_10000_desc.txt
+2.118663 seconds
+______________________
+Datas//Object_data_types//Student//gpa//desc//gpa_20000_desc.txt
+4.699381 seconds
+______________________
+Datas//Object_data_types//Student//gpa//desc//gpa_30000_desc.txt
+7.373907 seconds
+______________________
+

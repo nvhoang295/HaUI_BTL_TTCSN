@@ -1,0 +1,22 @@
+Datas//Object_data_types//Student//gender//asc//gender_1000_asc.txt
+0.143331 seconds
+______________________
+Datas//Object_data_types//Student//gender//asc//gender_2000_asc.txt
+0.314289 seconds
+______________________
+Datas//Object_data_types//Student//gender//asc//gender_3000_asc.txt
+0.498143 seconds
+______________________
+Datas//Object_data_types//Student//gender//asc//gender_5000_asc.txt
+0.875661 seconds
+______________________
+Datas//Object_data_types//Student//gender//asc//gender_10000_asc.txt
+1.876808 seconds
+______________________
+Datas//Object_data_types//Student//gender//asc//gender_20000_asc.txt
+3.993325 seconds
+______________________
+Datas//Object_data_types//Student//gender//asc//gender_30000_asc.txt
+6.242433 seconds
+______________________
+

@@ -1,0 +1,22 @@
+Datas//Object_data_types//Student//name//rand//name_1000_rand.txt
+0.263280 seconds
+______________________
+Datas//Object_data_types//Student//name//rand//name_2000_rand.txt
+0.535301 seconds
+______________________
+Datas//Object_data_types//Student//name//rand//name_3000_rand.txt
+0.801350 seconds
+______________________
+Datas//Object_data_types//Student//name//rand//name_5000_rand.txt
+1.406707 seconds
+______________________
+Datas//Object_data_types//Student//name//rand//name_10000_rand.txt
+3.164003 seconds
+______________________
+Datas//Object_data_types//Student//name//rand//name_20000_rand.txt
+6.305324 seconds
+______________________
+Datas//Object_data_types//Student//name//rand//name_30000_rand.txt
+10.080646 seconds
+______________________
+

@@ -1,0 +1,22 @@
+Datas//Object_data_types//Student//dob//rand//dob_1000_rand.txt
+0.216211 seconds
+______________________
+Datas//Object_data_types//Student//dob//rand//dob_2000_rand.txt
+0.469860 seconds
+______________________
+Datas//Object_data_types//Student//dob//rand//dob_3000_rand.txt
+0.749093 seconds
+______________________
+Datas//Object_data_types//Student//dob//rand//dob_5000_rand.txt
+1.343505 seconds
+______________________
+Datas//Object_data_types//Student//dob//rand//dob_10000_rand.txt
+3.071329 seconds
+______________________
+Datas//Object_data_types//Student//dob//rand//dob_20000_rand.txt
+6.461209 seconds
+______________________
+Datas//Object_data_types//Student//dob//rand//dob_30000_rand.txt
+10.014885 seconds
+______________________
+

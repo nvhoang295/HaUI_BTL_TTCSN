@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Models">
+      <UniqueIdentifier>{de16ecd0-ca3a-4def-b29c-05b96d1040f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models\Infor">
+      <UniqueIdentifier>{82f06868-f1d7-4999-9f48-4cc8bc9e4dea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models\Infor\Header Files">
+      <UniqueIdentifier>{ec98fa23-43bc-4395-924f-b5af4d07438c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models\Infor\Source Files">
+      <UniqueIdentifier>{3a36258f-2c5c-41ac-bb73-09f7ed48acbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models\Algor">
+      <UniqueIdentifier>{a23a6d80-5c9b-4a90-b7c1-f240376d451a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models\Algor\Header Files">
+      <UniqueIdentifier>{36dcdd45-1851-4c00-be30-390ca607a34e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models\Algor\Source Files">
+      <UniqueIdentifier>{01cc667d-987c-4e69-8d3b-e217f83448fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Controllers">
+      <UniqueIdentifier>{06a83941-81da-418d-91fc-9d7486e58e1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views">
+      <UniqueIdentifier>{1cfb1338-6100-4dda-902b-152317ab529a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Controllers\Header Files">
+      <UniqueIdentifier>{92f8e49b-6263-4e10-81c6-c9b6778b9c5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Controllers\Source Files">
+      <UniqueIdentifier>{45ff5a2e-7c5d-4a1f-8188-13bbc7bbd200}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views\Header Files">
+      <UniqueIdentifier>{ce129618-2b8d-41fb-a8a9-1a43ce0f9d4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views\Source Files">
+      <UniqueIdentifier>{0b84367b-4f78-4e24-931f-eab051e57563}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Complexity.cpp">
+      <Filter>Models\Infor\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SortingAlgor.cpp">
+      <Filter>Models\Infor\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicSort.cpp">
+      <Filter>Models\Algor\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BubbleSort.cpp">
+      <Filter>Models\Algor\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionSort.cpp">
+      <Filter>Models\Algor\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertionSort.cpp">
+      <Filter>Models\Algor\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeSort.cpp">
+      <Filter>Models\Algor\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort.cpp">
+      <Filter>Models\Algor\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HeapSort.cpp">
+      <Filter>Models\Algor\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataSet.cpp">
+      <Filter>Models\Infor\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FileController.cpp">
+      <Filter>Controllers\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UtilsController.cpp">
+      <Filter>Controllers\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleApplication3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AlgorSelectionView.cpp">
+      <Filter>Views\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FileSelectionView.cpp">
+      <Filter>Views\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BenchmarksResultView.cpp">
+      <Filter>Views\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Decorator.cpp">
+      <Filter>Views\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InputController.cpp">
+      <Filter>Controllers\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>Models\Infor\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Major.cpp">
+      <Filter>Models\Infor\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>Models\Infor\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataInitController.cpp">
+      <Filter>Controllers\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DatatypeSelectionView.cpp">
+      <Filter>Views\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OrderSelectionView.cpp">
+      <Filter>Views\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Complexity.h">
+      <Filter>Models\Infor\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicSort.h">
+      <Filter>Models\Algor\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BubbleSort.h">
+      <Filter>Models\Algor\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectionSort.h">
+      <Filter>Models\Algor\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InsertionSort.h">
+      <Filter>Models\Algor\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MergeSort.h">
+      <Filter>Models\Algor\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuickSort.h">
+      <Filter>Models\Algor\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HeapSort.h">
+      <Filter>Models\Algor\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSet.h">
+      <Filter>Models\Infor\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FileController.h">
+      <Filter>Controllers\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UtilsController.h">
+      <Filter>Controllers\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SortingAlgor.h">
+      <Filter>Models\Infor\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AlgorSelectionView.h">
+      <Filter>Views\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FileSelectionView.h">
+      <Filter>Views\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BenchmarksResultView.h">
+      <Filter>Views\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Decorator.h">
+      <Filter>Views\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InputController.h">
+      <Filter>Controllers\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>Models\Infor\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Major.h">
+      <Filter>Models\Infor\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>Models\Infor\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AllLib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataInitController.h">
+      <Filter>Controllers\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DatatypeSelectionView.h">
+      <Filter>Views\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OrderSelectionView.h">
+      <Filter>Views\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>

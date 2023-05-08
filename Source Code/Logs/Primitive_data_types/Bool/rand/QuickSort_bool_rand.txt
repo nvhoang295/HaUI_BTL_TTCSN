@@ -1,0 +1,34 @@
+Datas//bool//rand//bool_1000_rand.txt
+0.000536 seconds
+______________________
+Datas//bool//rand//bool_2000_rand.txt
+0.001089 seconds
+______________________
+Datas//bool//rand//bool_3000_rand.txt
+0.001695 seconds
+______________________
+Datas//bool//rand//bool_5000_rand.txt
+0.002904 seconds
+______________________
+Datas//bool//rand//bool_10000_rand.txt
+0.006026 seconds
+______________________
+Datas//bool//rand//bool_20000_rand.txt
+0.012638 seconds
+______________________
+Datas//bool//rand//bool_30000_rand.txt
+0.019571 seconds
+______________________
+Datas//bool//rand//bool_50000_rand.txt
+0.033546 seconds
+______________________
+Datas//bool//rand//bool_100000_rand.txt
+0.069255 seconds
+______________________
+Datas//bool//rand//bool_200000_rand.txt
+0.144094 seconds
+______________________
+Datas//bool//rand//bool_300000_rand.txt
+0.219676 seconds
+______________________
+

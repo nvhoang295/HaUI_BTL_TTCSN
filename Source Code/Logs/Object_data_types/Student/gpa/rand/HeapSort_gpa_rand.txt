@@ -1,0 +1,22 @@
+Datas//Object_data_types//Student//gpa//rand//gpa_1000_rand.txt
+0.241768 seconds
+______________________
+Datas//Object_data_types//Student//gpa//rand//gpa_2000_rand.txt
+0.556131 seconds
+______________________
+Datas//Object_data_types//Student//gpa//rand//gpa_3000_rand.txt
+0.885702 seconds
+______________________
+Datas//Object_data_types//Student//gpa//rand//gpa_5000_rand.txt
+1.541430 seconds
+______________________
+Datas//Object_data_types//Student//gpa//rand//gpa_10000_rand.txt
+3.401029 seconds
+______________________
+Datas//Object_data_types//Student//gpa//rand//gpa_20000_rand.txt
+7.402248 seconds
+______________________
+Datas//Object_data_types//Student//gpa//rand//gpa_30000_rand.txt
+11.501236 seconds
+______________________
+

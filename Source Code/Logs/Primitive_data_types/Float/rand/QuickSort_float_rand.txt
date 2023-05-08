@@ -1,0 +1,34 @@
+Datas//float//rand//float_1000_rand.txt
+0.000644 seconds
+______________________
+Datas//float//rand//float_2000_rand.txt
+0.001354 seconds
+______________________
+Datas//float//rand//float_3000_rand.txt
+0.001980 seconds
+______________________
+Datas//float//rand//float_5000_rand.txt
+0.003563 seconds
+______________________
+Datas//float//rand//float_10000_rand.txt
+0.007402 seconds
+______________________
+Datas//float//rand//float_20000_rand.txt
+0.015160 seconds
+______________________
+Datas//float//rand//float_30000_rand.txt
+0.023149 seconds
+______________________
+Datas//float//rand//float_50000_rand.txt
+0.039993 seconds
+______________________
+Datas//float//rand//float_100000_rand.txt
+0.082300 seconds
+______________________
+Datas//float//rand//float_200000_rand.txt
+0.171094 seconds
+______________________
+Datas//float//rand//float_300000_rand.txt
+0.268291 seconds
+______________________
+

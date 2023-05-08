@@ -1,0 +1,22 @@
+Datas//Object_data_types//Student//name//desc//name_1000_desc.txt
+0.175512 seconds
+______________________
+Datas//Object_data_types//Student//name//desc//name_2000_desc.txt
+0.388447 seconds
+______________________
+Datas//Object_data_types//Student//name//desc//name_3000_desc.txt
+0.607844 seconds
+______________________
+Datas//Object_data_types//Student//name//desc//name_5000_desc.txt
+1.080290 seconds
+______________________
+Datas//Object_data_types//Student//name//desc//name_10000_desc.txt
+2.361224 seconds
+______________________
+Datas//Object_data_types//Student//name//desc//name_20000_desc.txt
+5.167810 seconds
+______________________
+Datas//Object_data_types//Student//name//desc//name_30000_desc.txt
+8.225167 seconds
+______________________
+

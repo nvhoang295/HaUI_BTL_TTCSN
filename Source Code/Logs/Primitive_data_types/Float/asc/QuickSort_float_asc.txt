@@ -1,0 +1,34 @@
+Datas//float//asc//float_1000_asc.txt
+0.000481 seconds
+______________________
+Datas//float//asc//float_2000_asc.txt
+0.001000 seconds
+______________________
+Datas//float//asc//float_3000_asc.txt
+0.001560 seconds
+______________________
+Datas//float//asc//float_5000_asc.txt
+0.003063 seconds
+______________________
+Datas//float//asc//float_10000_asc.txt
+0.005693 seconds
+______________________
+Datas//float//asc//float_20000_asc.txt
+0.011936 seconds
+______________________
+Datas//float//asc//float_30000_asc.txt
+0.018441 seconds
+______________________
+Datas//float//asc//float_50000_asc.txt
+0.032085 seconds
+______________________
+Datas//float//asc//float_100000_asc.txt
+0.067023 seconds
+______________________
+Datas//float//asc//float_200000_asc.txt
+0.139005 seconds
+______________________
+Datas//float//asc//float_300000_asc.txt
+0.212057 seconds
+______________________
+

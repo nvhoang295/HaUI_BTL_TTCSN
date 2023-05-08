@@ -1,0 +1,34 @@
+Datas//int//desc//int_1000_desc.txt
+0.012198 seconds
+______________________
+Datas//int//desc//int_2000_desc.txt
+0.050798 seconds
+______________________
+Datas//int//desc//int_3000_desc.txt
+0.112262 seconds
+______________________
+Datas//int//desc//int_5000_desc.txt
+0.317196 seconds
+______________________
+Datas//int//desc//int_10000_desc.txt
+1.225934 seconds
+______________________
+Datas//int//desc//int_20000_desc.txt
+5.031994 seconds
+______________________
+Datas//int//desc//int_30000_desc.txt
+11.409748 seconds
+______________________
+Datas//int//desc//int_50000_desc.txt
+31.245059 seconds
+______________________
+Datas//int//desc//int_100000_desc.txt
+123.828424 seconds
+______________________
+Datas//int//desc//int_200000_desc.txt
+491.996276 seconds
+______________________
+Datas//int//desc//int_300000_desc.txt
+1102.942957 seconds
+______________________
+

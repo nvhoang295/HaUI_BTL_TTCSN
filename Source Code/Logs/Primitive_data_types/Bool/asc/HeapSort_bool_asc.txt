@@ -1,0 +1,34 @@
+Datas//bool//asc//bool_1000_asc.txt
+0.000646 seconds
+______________________
+Datas//bool//asc//bool_2000_asc.txt
+0.001355 seconds
+______________________
+Datas//bool//asc//bool_3000_asc.txt
+0.002190 seconds
+______________________
+Datas//bool//asc//bool_5000_asc.txt
+0.003918 seconds
+______________________
+Datas//bool//asc//bool_10000_asc.txt
+0.008083 seconds
+______________________
+Datas//bool//asc//bool_20000_asc.txt
+0.017211 seconds
+______________________
+Datas//bool//asc//bool_30000_asc.txt
+0.026667 seconds
+______________________
+Datas//bool//asc//bool_50000_asc.txt
+0.046434 seconds
+______________________
+Datas//bool//asc//bool_100000_asc.txt
+0.099517 seconds
+______________________
+Datas//bool//asc//bool_200000_asc.txt
+0.208623 seconds
+______________________
+Datas//bool//asc//bool_300000_asc.txt
+0.322706 seconds
+______________________
+

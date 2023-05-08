@@ -1,0 +1,34 @@
+Datas//int//rand//int_1000_rand.txt
+0.014184 seconds
+______________________
+Datas//int//rand//int_2000_rand.txt
+0.055548 seconds
+______________________
+Datas//int//rand//int_3000_rand.txt
+0.132247 seconds
+______________________
+Datas//int//rand//int_5000_rand.txt
+0.354999 seconds
+______________________
+Datas//int//rand//int_10000_rand.txt
+1.394892 seconds
+______________________
+Datas//int//rand//int_20000_rand.txt
+5.623378 seconds
+______________________
+Datas//int//rand//int_30000_rand.txt
+12.584494 seconds
+______________________
+Datas//int//rand//int_50000_rand.txt
+35.036683 seconds
+______________________
+Datas//int//rand//int_100000_rand.txt
+140.052859 seconds
+______________________
+Datas//int//rand//int_200000_rand.txt
+560.911397 seconds
+______________________
+Datas//int//rand//int_300000_rand.txt
+1258.584169 seconds
+______________________
+

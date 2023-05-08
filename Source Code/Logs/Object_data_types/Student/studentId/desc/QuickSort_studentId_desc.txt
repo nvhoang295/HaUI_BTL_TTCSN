@@ -1,0 +1,22 @@
+Datas//Object_data_types//Student//studentId//desc//studentId_1000_desc.txt
+0.141522 seconds
+______________________
+Datas//Object_data_types//Student//studentId//desc//studentId_2000_desc.txt
+0.305818 seconds
+______________________
+Datas//Object_data_types//Student//studentId//desc//studentId_3000_desc.txt
+0.478541 seconds
+______________________
+Datas//Object_data_types//Student//studentId//desc//studentId_5000_desc.txt
+0.854437 seconds
+______________________
+Datas//Object_data_types//Student//studentId//desc//studentId_10000_desc.txt
+1.823890 seconds
+______________________
+Datas//Object_data_types//Student//studentId//desc//studentId_20000_desc.txt
+3.885166 seconds
+______________________
+Datas//Object_data_types//Student//studentId//desc//studentId_30000_desc.txt
+6.064045 seconds
+______________________
+

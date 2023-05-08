@@ -1,0 +1,22 @@
+Datas//Object_data_types//Student//gender//rand//gender_1000_rand.txt
+0.134202 seconds
+______________________
+Datas//Object_data_types//Student//gender//rand//gender_2000_rand.txt
+0.288284 seconds
+______________________
+Datas//Object_data_types//Student//gender//rand//gender_3000_rand.txt
+0.476788 seconds
+______________________
+Datas//Object_data_types//Student//gender//rand//gender_5000_rand.txt
+0.848862 seconds
+______________________
+Datas//Object_data_types//Student//gender//rand//gender_10000_rand.txt
+1.785781 seconds
+______________________
+Datas//Object_data_types//Student//gender//rand//gender_20000_rand.txt
+3.896054 seconds
+______________________
+Datas//Object_data_types//Student//gender//rand//gender_30000_rand.txt
+6.049724 seconds
+______________________
+
