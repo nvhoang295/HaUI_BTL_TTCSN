@@ -7,12 +7,18 @@
 #include "UtilsController.h"
 #include "Complexity.h"
 using namespace std;
-class BasicSort{
+
+class BasicSort {
 public:
 	static void swap(bool& left, bool& right);
 	static void swap(int& left, int& right);
 	static void swap(float& left, float& right);	
 	static void swap(string& left, string& right);
+	
+	//static void swap(datatype& left, datatype& right);
+
+	// 
+	// 
 	//static void swap(Student& left, Student& right);
 	//virtual void sort(bool arr[], int n, function<bool(bool, bool)> cmp) = 0;
 	//virtual void sort(int arr[], int n, function<bool(int, int)> cmp) = 0;

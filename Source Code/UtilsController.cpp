@@ -52,14 +52,14 @@ bool UtilsController::checkYear(int year) {
 	return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
 }
 
-bool UtilsController::isAllAlgorsSelected(bool selectedAlgors[], int size) {
+bool UtilsController::isAllAlgorsSelected(bool selectedAlgors[], size_t size) {
 	for (int i = 0; i < size; ++i) {
 		if (!selectedAlgors[i]) return 0;
 	}
 	return 1;
 }
 
-bool UtilsController::isExistAlgorSelected(bool selectedAlgors[], int size) {
+bool UtilsController::isExistAlgorSelected(bool selectedAlgors[], size_t size) {
 	for (int i = 0; i < size; ++i) {
 		if (selectedAlgors[i]) return 1;
 	}

@@ -1,7 +1,4 @@
-//#include <iostream>
-//#include <vector>
-//#include <chrono>
-
+#include "BasicSort.h"
 #include "Student.h"
 #include "SortingAlgor.h"
 
@@ -15,23 +12,50 @@
 #include "FileController.h"
 #include "DataInitController.h"
 
-#include "AlgorSelectionView.h"
-#include "DatatypeSelectionView.h"
-#include "OrderSelectionView.h"
+#include "AlgorSelection.h"
+#include "DatatypeSelection.h"
+#include "PropFieldSelection.h"
+#include "OrderSelection.h"
+#include "ElemQuantitySelection.h"
+#include "BenchmarksResult.h"
 
-
-
-//using namespace std::chrono;
-//#define track(x, y) cout << #x << ": " << "| " << #y << ": " << y
 #define track(x) cout << #x << ": " << x << endl
 
-int main() {
+int_fast32_t main() {
+	ios_base::sync_with_stdio(false);
 	size_t choice;
-	string path = "";
+	string path = "", propField;
+	bool isObjective = 0;
 	bool selectedAlgors[10]{ 0 };
-	if(!AlgorSelectionView::renderMainView(selectedAlgors)) return 0;
-	choice = DatatypeSelectionView::renderMainView();
-	DatatypeSelectionView::concatFilePath(path, choice);
+	if(!AlgorSelection::renderMainView(selectedAlgors)) return 0;
+	choice = DatatypeSelection::renderMainView();
+	string datatype = DatatypeSelection::getDatatype(choice);
+	DatatypeSelection::concatFilePath(path, choice);
+	if (choice == 4) {
+		choice = PropFieldSelection::renderMainView();
+		PropFieldSelection::concatFilePath(path, choice);
+		datatype = PropFieldSelection::getPropField(choice);
+		isObjective = 1;
+	}
+	choice = OrderSelection::renderMainView();
+	OrderSelection::concatFilePath(path, choice);
+	string order = OrderSelection::getOrder(choice);
+	choice = ElemQuantitySelection::renderMainView(isObjective);
+	int quantity = ElemQuantitySelection::getElemQuantity(choice);
+	ElemQuantitySelection::concatFilePath(path, datatype, to_string(quantity), order);
+	
+
+
+	track(path);
+	track(datatype);
+	track(order);
+
+
+	cout << path;
+
+
+
+
 
 	//system("cls");
 	//cout << path;

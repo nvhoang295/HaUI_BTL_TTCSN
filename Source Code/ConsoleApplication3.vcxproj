@@ -127,16 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AlgorSelectionView.cpp" />
+    <ClCompile Include="AlgorSelection.cpp" />
     <ClCompile Include="BasicSort.cpp" />
-    <ClCompile Include="BenchmarksResultView.cpp" />
+    <ClCompile Include="BenchmarksResult.cpp" />
     <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="Complexity.cpp" />
     <ClCompile Include="ConsoleApplication3.cpp" />
     <ClCompile Include="DataInitController.cpp" />
     <ClCompile Include="DataSet.cpp" />
-    <ClCompile Include="DatatypeSelectionView.cpp" />
+    <ClCompile Include="DatatypeSelection.cpp" />
     <ClCompile Include="Decorator.cpp" />
+    <ClCompile Include="ElemQuantitySelection.cpp" />
     <ClCompile Include="FileController.cpp" />
     <ClCompile Include="FileSelectionView.cpp" />
     <ClCompile Include="HeapSort.cpp" />
@@ -145,8 +146,9 @@
     <ClCompile Include="Inventory.cpp" />
     <ClCompile Include="Major.cpp" />
     <ClCompile Include="MergeSort.cpp" />
-    <ClCompile Include="OrderSelectionView.cpp" />
+    <ClCompile Include="OrderSelection.cpp" />
     <ClCompile Include="Person.cpp" />
+    <ClCompile Include="PropFieldSelection.cpp" />
     <ClCompile Include="QuickSort.cpp" />
     <ClCompile Include="SelectionSort.cpp" />
     <ClCompile Include="SortingAlgor.cpp" />
@@ -154,16 +156,17 @@
     <ClCompile Include="UtilsController.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="AlgorSelectionView.h" />
+    <ClInclude Include="AlgorSelection.h" />
     <ClInclude Include="AllLib.h" />
     <ClInclude Include="BasicSort.h" />
-    <ClInclude Include="BenchmarksResultView.h" />
+    <ClInclude Include="BenchmarksResult.h" />
     <ClInclude Include="BubbleSort.h" />
     <ClInclude Include="Complexity.h" />
     <ClInclude Include="DataInitController.h" />
     <ClInclude Include="DataSet.h" />
-    <ClInclude Include="DatatypeSelectionView.h" />
+    <ClInclude Include="DatatypeSelection.h" />
     <ClInclude Include="Decorator.h" />
+    <ClInclude Include="ElemQuantitySelection.h" />
     <ClInclude Include="FileController.h" />
     <ClInclude Include="FileSelectionView.h" />
     <ClInclude Include="HeapSort.h" />
@@ -171,8 +174,9 @@
     <ClInclude Include="InsertionSort.h" />
     <ClInclude Include="Major.h" />
     <ClInclude Include="MergeSort.h" />
-    <ClInclude Include="OrderSelectionView.h" />
+    <ClInclude Include="OrderSelection.h" />
     <ClInclude Include="Person.h" />
+    <ClInclude Include="PropFieldSelection.h" />
     <ClInclude Include="QuickSort.h" />
     <ClInclude Include="SelectionSort.h" />
     <ClInclude Include="SortingAlgor.h" />

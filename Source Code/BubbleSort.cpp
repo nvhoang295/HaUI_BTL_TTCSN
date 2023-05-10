@@ -41,7 +41,7 @@ void BubbleSort::sort(string arr[], int n, function<bool(string, string)> cmp) {
 }
 
 void BubbleSort::sort(vector<Student>& students, function<bool(Student, Student)> cmp) {
-	int n = students.size();
+	size_t n = students.size();
 	for (int i = 0; i < n - 1; ++i) {
 		for (int j = n - 1; j > i; --j) {
 			if (cmp(students[j], students[j - 1])) {

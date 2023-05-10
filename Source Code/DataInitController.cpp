@@ -46,8 +46,8 @@ void DataInitController::initPersonData(vector<Person>& persons, int n, vector<s
 
 void DataInitController::initStudentData(vector<Student>& students, int n, int year,  vector<Person> persons, vector<Major> majors) {
 	srand(time_t(0));
-	int len1 = persons.size();
-	int len2 = majors.size();
+	size_t len1 = persons.size();
+	size_t len2 = majors.size();
 	for (int i = 0; i < n; ++i) {
 		int studentId = year * 1e6 + 6 * 1e5 + i;
 		//cout << studentId << endl; 

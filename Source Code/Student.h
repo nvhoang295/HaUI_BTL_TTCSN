@@ -21,9 +21,6 @@ public:
 	float getGpa();
 	void setStudentId(int studentId);
 	void setGpa(float gpa);
-	//friend class BasicSort;
-	//friend void BasicSort::swap(Student& left, Student& right);
 	static void swap(Student& left, Student& right);
-	//static void sort(vector<Student>& students, function<bool(Student, Student)> cmp);
 };
 

@@ -211,7 +211,7 @@ void FileController::writeFile(string fileName, vector<Student>& students, int s
 	students.shrink_to_fit();
 }
 
-void FileController::writeLogFile(string fileName, string content) {
+void FileController::writeLogFile(string fileName, string log) {
 	ofstream file(fileName, ios_base::out);
-	file << content << "\n";
+	file << log << "\n";
 }

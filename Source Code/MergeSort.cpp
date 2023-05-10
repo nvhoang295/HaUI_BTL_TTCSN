@@ -171,6 +171,3 @@ void MergeSort::sort(vector<Student>& students, function<bool(Student, Student)>
 	int n = students.size();
 	MergeSort::mergeSort(students, 0, n - 1, cmp);
 }
-
-
-

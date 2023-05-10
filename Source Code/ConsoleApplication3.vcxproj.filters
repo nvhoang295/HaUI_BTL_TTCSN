@@ -89,13 +89,13 @@
     <ClCompile Include="ConsoleApplication3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="AlgorSelectionView.cpp">
+    <ClCompile Include="AlgorSelection.cpp">
       <Filter>Views\Source Files</Filter>
     </ClCompile>
     <ClCompile Include="FileSelectionView.cpp">
       <Filter>Views\Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BenchmarksResultView.cpp">
+    <ClCompile Include="BenchmarksResult.cpp">
       <Filter>Views\Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Decorator.cpp">
@@ -119,10 +119,16 @@
     <ClCompile Include="DataInitController.cpp">
       <Filter>Controllers\Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="DatatypeSelectionView.cpp">
+    <ClCompile Include="DatatypeSelection.cpp">
       <Filter>Views\Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="OrderSelectionView.cpp">
+    <ClCompile Include="OrderSelection.cpp">
+      <Filter>Views\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PropFieldSelection.cpp">
+      <Filter>Views\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ElemQuantitySelection.cpp">
       <Filter>Views\Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -163,13 +169,13 @@
     <ClInclude Include="SortingAlgor.h">
       <Filter>Models\Infor\Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="AlgorSelectionView.h">
+    <ClInclude Include="AlgorSelection.h">
       <Filter>Views\Header Files</Filter>
     </ClInclude>
     <ClInclude Include="FileSelectionView.h">
       <Filter>Views\Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="BenchmarksResultView.h">
+    <ClInclude Include="BenchmarksResult.h">
       <Filter>Views\Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Decorator.h">
@@ -193,10 +199,16 @@
     <ClInclude Include="DataInitController.h">
       <Filter>Controllers\Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="DatatypeSelectionView.h">
+    <ClInclude Include="DatatypeSelection.h">
       <Filter>Views\Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="OrderSelectionView.h">
+    <ClInclude Include="OrderSelection.h">
+      <Filter>Views\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PropFieldSelection.h">
+      <Filter>Views\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ElemQuantitySelection.h">
       <Filter>Views\Header Files</Filter>
     </ClInclude>
   </ItemGroup>

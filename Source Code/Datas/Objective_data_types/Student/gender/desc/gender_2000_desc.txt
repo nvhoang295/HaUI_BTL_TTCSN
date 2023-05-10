@@ -1,0 +1,2001 @@
+2000
+2021600116|3.74|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2021600114|1.38|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2021600117|1.54|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600111|2.57|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2021600106|2.8|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2021600113|2.32|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2021600131|2.68|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2021600123|3.86|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2021600132|3.27|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600118|3.43|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2021600120|1.76|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2021600094|1.95|7340115|Marketing|Betty|Young|1|2003/01/13
+2021600092|1.17|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2021600095|2.14|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600090|2.25|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600089|2.36|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2021600091|1.06|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2021600101|3.23|7340115|Marketing|Betty|Young|1|2003/01/13
+2021600098|2.58|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2021600104|2.91|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2021600096|1.53|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2021600097|1.69|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2021600159|1.44|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2021600158|2.42|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2021600161|2.89|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2021600156|1.01|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2021600155|1.91|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2021600157|4|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2021600178|1.08|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600168|2.34|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2021600181|2.01|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2021600162|3.91|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2021600164|3.39|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2021600142|3.19|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2021600139|1.59|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600143|2.02|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2021600137|3.25|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2021600136|3.84|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600138|1.34|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2021600149|3.01|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600148|4|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2021600150|3.84|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2021600145|1.14|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600146|3.65|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600039|3.76|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2021600038|1.38|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2021600040|2.18|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600035|3.51|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2021600034|2.8|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2021600036|2.68|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2021600047|1.97|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2021600046|1.67|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2021600050|1.87|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2021600042|3.39|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2021600043|1.95|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600024|1.53|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2021600023|2.72|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2021600025|2.04|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2021600018|2.33|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600017|1.51|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2021600021|3.3|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2021600030|2.41|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2021600029|3.24|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2021600033|3.57|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2021600026|3.39|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600027|1.07|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2021600078|1.35|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2021600076|2.8|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2021600082|1.09|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2021600072|3.38|75103031|Kỹ thuật sản xuất thông minh|Martha|Richardson|1|2002/08/04
+2021600071|2.05|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2021600075|3.12|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2021600086|1.45|7340115|Marketing|Betty|Young|1|2003/01/13
+2021600085|2.48|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2021600088|1.67|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2021600083|1.92|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2021600084|2.04|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2021600056|3.54|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2021600055|2.89|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2021600059|1.8|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2021600053|1.58|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2021600054|2.73|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2021600069|3.63|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2021600065|3.29|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2021600070|3.79|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2021600060|1.66|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2021600063|1.42|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2021600288|1.68|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2021600285|3.97|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2021600290|1.4|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2021600282|3.02|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2021600278|2.16|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2021600284|1.62|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2021600297|3.61|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2021600296|2.07|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600298|3.81|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600294|3.67|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2021600295|1.65|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2021600263|1.87|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2021600262|3.88|75103031|Kỹ thuật sản xuất thông minh|Martha|Richardson|1|2002/08/04
+2021600268|3.77|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2021600259|3.81|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2021600256|1.35|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2021600260|3.75|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2021600276|2.24|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2021600275|3.23|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2021600277|1.71|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2021600270|3.46|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2021600273|2.39|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2021600330|1.59|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2021600323|1.02|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2021600331|2.14|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2021600319|2.7|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600317|3|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2021600321|1.37|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600340|2.62|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2021600339|3.38|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2021600342|2.66|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600333|2.53|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2021600338|3.87|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2021600307|1.38|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2021600305|3.4|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2021600308|3.39|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2021600299|1.58|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2021600304|2.39|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2021600313|1.36|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2021600312|2.94|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2021600315|1.26|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2021600309|3.59|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600310|1.1|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2021600206|1.13|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600205|1.22|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2021600207|3.54|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2021600203|3.78|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2021600201|3.21|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2021600204|3.16|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2021600221|3.54|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2021600214|2.18|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2021600222|3.53|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2021600211|2.24|7340115|Marketing|Betty|Young|1|2003/01/13
+2021600213|1.02|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2021600191|1.59|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2021600190|1.21|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2021600192|1.79|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2021600187|3.65|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2021600184|1.57|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2021600188|3.29|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2021600198|2.84|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600197|2.54|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600199|2.33|75103031|Kỹ thuật sản xuất thông minh|Martha|Richardson|1|2002/08/04
+2021600193|1.92|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2021600195|1.73|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2021600245|2.98|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2021600244|1.75|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2021600247|1.3|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2021600242|1.98|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2021600237|2.38|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2021600243|1.44|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2021600253|1.27|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2021600252|3.92|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2021600254|2.48|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2021600249|1.43|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2021600250|1.35|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2021600229|1.99|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2021600228|2.13|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2021600230|1.22|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2021600224|1.23|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2021600227|1.65|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600234|3.52|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2021600233|3.08|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2021600235|2.91|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2021600231|3.48|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2021600232|3.82|7340115|Marketing|Betty|Young|1|2003/01/13
+2020600295|1.65|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2020600294|3.67|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2020600296|2.07|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600288|1.68|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2020600285|3.97|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2020600290|1.4|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2020600304|2.39|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2020600299|1.58|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2020600305|3.4|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2020600297|3.61|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2020600298|3.81|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600273|2.39|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2020600270|3.46|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2020600275|3.23|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2020600263|1.87|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2020600262|3.88|75103031|Kỹ thuật sản xuất thông minh|Martha|Richardson|1|2002/08/04
+2020600268|3.77|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2020600282|3.02|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2020600278|2.16|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2020600284|1.62|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2020600276|2.24|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2020600277|1.71|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2020600338|3.87|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2020600333|2.53|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2020600339|3.38|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2020600330|1.59|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2020600323|1.02|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2020600331|2.14|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2020600344|1.2|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2020600343|2.61|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2020600346|1.49|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2020600340|2.62|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2020600342|2.66|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600310|1.1|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2020600309|3.59|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600312|2.94|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2020600307|1.38|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2020600308|3.39|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2020600319|2.7|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600317|3|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2020600321|1.37|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600313|1.36|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2020600315|1.26|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2020600213|1.02|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2020600211|2.24|7340115|Marketing|Betty|Young|1|2003/01/13
+2020600214|2.18|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2020600206|1.13|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600205|1.22|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2020600207|3.54|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2020600227|1.65|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600224|1.23|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2020600228|2.13|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2020600221|3.54|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2020600222|3.53|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2020600195|1.73|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2020600193|1.92|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2020600197|2.54|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600191|1.59|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2020600190|1.21|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2020600192|1.79|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2020600203|3.78|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2020600201|3.21|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2020600204|3.16|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2020600198|2.84|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600199|2.33|75103031|Kỹ thuật sản xuất thông minh|Martha|Richardson|1|2002/08/04
+2020600250|1.35|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2020600249|1.43|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2020600252|3.92|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2020600245|2.98|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2020600244|1.75|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2020600247|1.3|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2020600259|3.81|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2020600256|1.35|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2020600260|3.75|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2020600253|1.27|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2020600254|2.48|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2020600232|3.82|7340115|Marketing|Betty|Young|1|2003/01/13
+2020600231|3.48|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2020600233|3.08|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2020600229|1.99|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2020600230|1.22|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2020600242|1.98|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2020600237|2.38|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2020600243|1.44|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2020600234|3.52|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2020600235|2.91|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2020600464|3.76|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2020600463|1.24|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2020600467|2.45|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600459|1.74|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600458|2.35|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2020600461|1.48|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2020600473|3.89|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2020600472|3.9|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2020600475|1.54|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2020600469|1.81|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600471|1.51|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2020600446|1.39|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600445|2.78|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2020600448|2.53|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2020600440|1.34|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2020600439|2.34|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2020600442|2.06|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2020600454|1.69|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600453|1.37|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2020600456|2.78|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600449|2.15|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2020600451|2.75|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2021600000|1.38|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2020600499|1.58|7340115|Marketing|Betty|Young|1|2003/01/13
+2021600006|3.39|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2020600495|1.11|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2020600493|3.16|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2020600498|3.33|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2021600012|1.96|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2021600009|3.88|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2021600013|3.86|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2021600007|1.69|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2021600008|3.16|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600481|3.13|7340115|Marketing|Betty|Young|1|2003/01/13
+2020600480|2.32|7340115|Marketing|Betty|Young|1|2003/01/13
+2020600484|3.93|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2020600476|3.35|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600479|3.74|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2020600490|3.25|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2020600489|1.44|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2020600492|2.28|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2020600486|3.42|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600487|1.82|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2020600393|1.34|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2020600392|2.04|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2020600394|2.56|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2020600389|3.86|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2020600388|1.32|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2020600391|3.42|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2020600399|1.08|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2020600398|3.25|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600401|2.78|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2020600395|1.35|7340115|Marketing|Betty|Young|1|2003/01/13
+2020600397|2.93|7340115|Marketing|Betty|Young|1|2003/01/13
+2020600357|2.79|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600356|1.14|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2020600360|3.06|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2020600354|2.14|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2020600350|2.15|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2020600355|2.47|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2020600383|3.02|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2020600378|2.06|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2020600386|3.65|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2020600366|3.91|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2020600375|1.43|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2020600427|1.03|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2020600426|3.98|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2020600428|2.91|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2020600421|1.65|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2020600420|2.92|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2020600425|3.43|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600437|3|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2020600433|2.85|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600438|2.69|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2020600431|1.5|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2020600432|3.25|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2020600409|3.38|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2020600407|3.48|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2020600411|1.17|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2020600402|2.56|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2020600403|1.61|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2020600418|3.6|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2020600414|2.05|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2020600419|1.84|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2020600412|3.66|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2020600413|1.09|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2022600278|2.16|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2022600277|1.71|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2022600282|3.02|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2022600275|3.23|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2022600273|2.39|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2022600276|2.24|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2022600290|1.4|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2022600288|1.68|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2022600294|3.67|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2022600284|1.62|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2022600285|3.97|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2022600256|1.35|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2022600254|2.48|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2022600259|3.81|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2022600252|3.92|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2022600250|1.35|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2022600253|1.27|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2022600268|3.77|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2022600263|1.87|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2022600270|3.46|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2022600260|3.75|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2022600262|3.88|75103031|Kỹ thuật sản xuất thông minh|Martha|Richardson|1|2002/08/04
+2022600317|3|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2022600315|1.26|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2022600319|2.7|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600312|2.94|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2022600310|1.1|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2022600313|1.36|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2022600331|2.14|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2022600330|1.59|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2022600333|2.53|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2022600321|1.37|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600323|1.02|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2022600298|3.81|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600297|3.61|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2022600299|1.58|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2022600295|1.65|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2022600296|2.07|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600308|3.39|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2022600307|1.38|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2022600309|3.59|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600304|2.39|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2022600305|3.4|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2022600201|3.21|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2022600199|2.33|75103031|Kỹ thuật sản xuất thông minh|Martha|Richardson|1|2002/08/04
+2022600203|3.78|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2022600197|2.54|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600195|1.73|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2022600198|2.84|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600207|3.54|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2022600206|1.13|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600211|2.24|7340115|Marketing|Betty|Young|1|2003/01/13
+2022600204|3.16|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2022600205|1.22|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2022600184|1.57|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2022600181|2.01|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2022600187|3.65|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2022600168|2.34|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2022600164|3.39|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2022600178|1.08|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600192|1.79|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2022600191|1.59|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2022600193|1.92|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2022600188|3.29|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2022600190|1.21|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2022600237|2.38|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2022600235|2.91|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2022600242|1.98|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2022600233|3.08|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2022600232|3.82|7340115|Marketing|Betty|Young|1|2003/01/13
+2022600234|3.52|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2022600247|1.3|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2022600245|2.98|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2022600249|1.43|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2022600243|1.44|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2022600244|1.75|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2022600222|3.53|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2022600221|3.54|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2022600224|1.23|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2022600213|1.02|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2022600214|2.18|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2022600230|1.22|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2022600229|1.99|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2022600231|3.48|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2022600227|1.65|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600228|2.13|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2022600453|1.37|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2022600451|2.75|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2022600454|1.69|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600448|2.53|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2022600446|1.39|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600449|2.15|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2022600461|1.48|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2022600459|1.74|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600463|1.24|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2022600456|2.78|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600458|2.35|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2022600433|2.85|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600432|3.25|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2022600437|3|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2022600428|2.91|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2022600427|1.03|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2022600431|1.5|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2022600442|2.06|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2022600440|1.34|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2022600445|2.78|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2022600438|2.69|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2022600439|2.34|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2022600489|1.44|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2022600487|1.82|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2022600490|3.25|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2022600484|3.93|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2022600481|3.13|7340115|Marketing|Betty|Young|1|2003/01/13
+2022600486|3.42|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600498|3.33|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2022600495|1.11|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2022600499|1.58|7340115|Marketing|Betty|Young|1|2003/01/13
+2022600492|2.28|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2022600493|3.16|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2022600471|1.51|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2022600469|1.81|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600472|3.9|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2022600464|3.76|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2022600467|2.45|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600479|3.74|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2022600476|3.35|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600480|2.32|7340115|Marketing|Betty|Young|1|2003/01/13
+2022600473|3.89|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2022600475|1.54|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2022600378|2.06|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2022600375|1.43|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2022600383|3.02|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2022600360|3.06|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2022600357|2.79|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600366|3.91|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2022600391|3.42|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2022600389|3.86|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2022600392|2.04|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2022600386|3.65|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2022600388|1.32|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2022600343|2.61|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2022600342|2.66|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600344|1.2|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2022600339|3.38|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2022600338|3.87|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2022600340|2.62|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2022600355|2.47|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2022600354|2.14|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2022600356|1.14|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2022600346|1.49|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2022600350|2.15|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2022600414|2.05|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2022600413|1.09|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2022600418|3.6|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2022600411|1.17|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2022600409|3.38|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2022600412|3.66|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2022600425|3.43|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600421|1.65|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2022600426|3.98|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2022600419|1.84|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2022600420|2.92|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2022600397|2.93|7340115|Marketing|Betty|Young|1|2003/01/13
+2022600395|1.35|7340115|Marketing|Betty|Young|1|2003/01/13
+2022600398|3.25|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600393|1.34|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2022600394|2.56|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2022600403|1.61|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2022600402|2.56|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2022600407|3.48|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2022600399|1.08|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2022600401|2.78|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2021600459|1.74|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600458|2.35|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2021600461|1.48|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2021600454|1.69|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600453|1.37|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2021600456|2.78|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600469|1.81|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600467|2.45|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600471|1.51|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2021600463|1.24|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2021600464|3.76|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2021600440|1.34|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2021600439|2.34|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2021600442|2.06|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2021600437|3|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2021600433|2.85|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600438|2.69|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2021600449|2.15|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2021600448|2.53|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2021600451|2.75|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2021600445|2.78|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2021600446|1.39|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600495|1.11|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2021600493|3.16|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2021600498|3.33|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2021600490|3.25|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2021600489|1.44|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2021600492|2.28|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2022600007|1.69|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2022600006|3.39|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2022600008|3.16|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600499|1.58|7340115|Marketing|Betty|Young|1|2003/01/13
+2022600000|1.38|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2021600476|3.35|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600475|1.54|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2021600479|3.74|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2021600472|3.9|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2021600473|3.89|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2021600486|3.42|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600484|3.93|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2021600487|1.82|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2021600480|2.32|7340115|Marketing|Betty|Young|1|2003/01/13
+2021600481|3.13|7340115|Marketing|Betty|Young|1|2003/01/13
+2021600389|3.86|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2021600388|1.32|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2021600391|3.42|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2021600383|3.02|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2021600378|2.06|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2021600386|3.65|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2021600395|1.35|7340115|Marketing|Betty|Young|1|2003/01/13
+2021600394|2.56|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2021600397|2.93|7340115|Marketing|Betty|Young|1|2003/01/13
+2021600392|2.04|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2021600393|1.34|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2021600354|2.14|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2021600350|2.15|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2021600355|2.47|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2021600344|1.2|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2021600343|2.61|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2021600346|1.49|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2021600366|3.91|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2021600360|3.06|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2021600375|1.43|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2021600356|1.14|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2021600357|2.79|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2021600421|1.65|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2021600420|2.92|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2021600425|3.43|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600418|3.6|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2021600414|2.05|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2021600419|1.84|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2021600431|1.5|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2021600428|2.91|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2021600432|3.25|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2021600426|3.98|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2021600427|1.03|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2021600402|2.56|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2021600401|2.78|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2021600403|1.61|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2021600398|3.25|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2021600399|1.08|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2021600412|3.66|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2021600411|1.17|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2021600413|1.09|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2021600407|3.48|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2021600409|3.38|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2022600111|2.57|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2022600106|2.8|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2022600113|2.32|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2022600101|3.23|7340115|Marketing|Betty|Young|1|2003/01/13
+2022600098|2.58|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2022600104|2.91|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2022600118|3.43|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2022600117|1.54|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600120|1.76|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2022600114|1.38|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2022600116|3.74|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2022600090|2.25|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600089|2.36|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2022600091|1.06|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2022600086|1.45|7340115|Marketing|Betty|Young|1|2003/01/13
+2022600085|2.48|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2022600088|1.67|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2022600096|1.53|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2022600095|2.14|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600097|1.69|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2022600092|1.17|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2022600094|1.95|7340115|Marketing|Betty|Young|1|2003/01/13
+2022600155|1.91|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2022600150|3.84|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2022600156|1.01|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2022600148|4|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2022600146|3.65|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600149|3.01|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600161|2.89|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2022600159|1.44|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2022600162|3.91|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2022600157|4|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2022600158|2.42|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2022600136|3.84|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600132|3.27|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600137|3.25|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2022600123|3.86|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2022600131|2.68|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2022600143|2.02|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2022600142|3.19|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2022600145|1.14|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600138|1.34|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2022600139|1.59|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600035|3.51|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2022600034|2.8|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2022600036|2.68|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2022600030|2.41|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2022600029|3.24|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2022600033|3.57|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2022600042|3.39|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2022600040|2.18|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600043|1.95|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600038|1.38|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2022600039|3.76|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2022600018|2.33|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2022600017|1.51|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2022600021|3.3|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2022600012|1.96|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2022600009|3.88|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2022600013|3.86|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2022600026|3.39|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2022600025|2.04|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2022600027|1.07|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2022600023|2.72|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2022600024|1.53|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2022600072|3.38|75103031|Kỹ thuật sản xuất thông minh|Martha|Richardson|1|2002/08/04
+2022600071|2.05|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2022600075|3.12|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2022600069|3.63|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2022600065|3.29|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2022600070|3.79|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2022600083|1.92|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2022600082|1.09|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2022600084|2.04|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2022600076|2.8|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2022600078|1.35|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2022600053|1.58|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2022600050|1.87|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2022600054|2.73|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2022600046|1.67|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2022600047|1.97|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2022600060|1.66|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2022600059|1.8|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2022600063|1.42|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2022600055|2.89|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2022600056|3.54|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600375|1.43|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2019600366|3.91|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2019600378|2.06|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2019600357|2.79|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600360|3.06|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2019600388|1.32|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2019600389|3.86|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2019600383|3.02|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2019600386|3.65|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2019600344|1.2|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2019600343|2.61|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2019600346|1.49|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2019600340|2.62|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2019600342|2.66|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600355|2.47|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2019600356|1.14|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600350|2.15|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2019600354|2.14|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2019600409|3.38|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2019600407|3.48|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2019600411|1.17|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2019600402|2.56|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2019600403|1.61|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2019600414|2.05|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2019600418|3.6|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2019600412|3.66|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2019600413|1.09|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2019600394|2.56|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2019600393|1.34|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2019600395|1.35|7340115|Marketing|Betty|Young|1|2003/01/13
+2019600391|3.42|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2019600392|2.04|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2019600399|1.08|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2019600401|2.78|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2019600397|2.93|7340115|Marketing|Betty|Young|1|2003/01/13
+2019600398|3.25|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600294|3.67|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2019600290|1.4|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600295|1.65|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2019600285|3.97|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2019600288|1.68|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2019600298|3.81|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600299|1.58|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2019600296|2.07|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600297|3.61|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2019600275|3.23|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2019600273|2.39|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600276|2.24|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2019600268|3.77|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2019600270|3.46|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2019600282|3.02|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2019600284|1.62|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2019600277|1.71|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2019600278|2.16|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2019600323|1.02|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2019600321|1.37|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600330|1.59|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2019600317|3|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2019600319|2.7|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600338|3.87|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2019600339|3.38|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600331|2.14|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2019600333|2.53|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2019600308|3.39|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600307|1.38|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2019600309|3.59|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600304|2.39|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2019600305|3.4|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2019600313|1.36|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2019600315|1.26|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2019600310|1.1|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2019600312|2.94|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2019600499|1.58|7340115|Marketing|Betty|Young|1|2003/01/13
+2019600498|3.33|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2020600000|1.38|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2019600493|3.16|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2019600495|1.11|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2020600008|3.16|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600009|3.88|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2020600006|3.39|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2020600007|1.69|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2019600484|3.93|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2019600481|3.13|7340115|Marketing|Betty|Young|1|2003/01/13
+2019600486|3.42|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600479|3.74|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2019600480|2.32|7340115|Marketing|Betty|Young|1|2003/01/13
+2019600490|3.25|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2019600492|2.28|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2019600487|1.82|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2019600489|1.44|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2020600033|3.57|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2020600030|2.41|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2020600034|2.8|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2020600027|1.07|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2020600029|3.24|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2020600038|1.38|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2020600039|3.76|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2020600035|3.51|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2020600036|2.68|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2020600018|2.33|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600017|1.51|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2020600021|3.3|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2020600012|1.96|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2020600013|3.86|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2020600025|2.04|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2020600026|3.39|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600023|2.72|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2020600024|1.53|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2019600439|2.34|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2019600438|2.69|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2019600440|1.34|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2019600433|2.85|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600437|3|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2019600446|1.39|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600448|2.53|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2019600442|2.06|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2019600445|2.78|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2019600425|3.43|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600421|1.65|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2019600426|3.98|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2019600419|1.84|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2019600420|2.92|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2019600431|1.5|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2019600432|3.25|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2019600427|1.03|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2019600428|2.91|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2019600469|1.81|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600467|2.45|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600471|1.51|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2019600463|1.24|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2019600464|3.76|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2019600475|1.54|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2019600476|3.35|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600472|3.9|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2019600473|3.89|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2019600453|1.37|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2019600454|1.69|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600449|2.15|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2019600451|2.75|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2019600459|1.74|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600461|1.48|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2019600456|2.78|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600458|2.35|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2019600085|2.48|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2019600084|2.04|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2019600086|1.45|7340115|Marketing|Betty|Young|1|2003/01/13
+2019600082|1.09|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2019600083|1.92|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2019600090|2.25|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600091|1.06|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2019600088|1.67|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2019600089|2.36|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2019600070|3.79|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2019600069|3.63|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2019600071|2.05|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2019600063|1.42|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2019600065|3.29|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2019600076|2.8|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2019600078|1.35|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2019600072|3.38|75103031|Kỹ thuật sản xuất thông minh|Martha|Richardson|1|2002/08/04
+2019600075|3.12|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2019600116|3.74|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2019600114|1.38|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2019600117|1.54|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600111|2.57|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2019600113|2.32|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2019600123|3.86|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2019600131|2.68|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2019600118|3.43|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2019600120|1.76|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2019600096|1.53|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2019600095|2.14|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600097|1.69|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2019600092|1.17|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2019600094|1.95|7340115|Marketing|Betty|Young|1|2003/01/13
+2019600104|2.91|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2019600106|2.8|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2019600098|2.58|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2019600101|3.23|7340115|Marketing|Betty|Young|1|2003/01/13
+2019600025|2.04|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2019600024|1.53|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2019600026|3.39|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600021|3.3|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2019600023|2.72|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2019600030|2.41|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2019600033|3.57|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2019600027|1.07|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2019600029|3.24|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2019600008|3.16|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600007|1.69|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2019600009|3.88|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2019600000|1.38|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2019600006|3.39|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2019600017|1.51|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2019600018|2.33|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600012|1.96|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600013|3.86|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2019600053|1.58|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2019600050|1.87|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2019600054|2.73|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2019600046|1.67|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600047|1.97|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2019600059|1.8|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2019600060|1.66|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2019600055|2.89|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2019600056|3.54|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600036|2.68|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2019600038|1.38|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2019600034|2.8|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2019600035|3.51|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2019600042|3.39|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2019600043|1.95|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600039|3.76|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2019600040|2.18|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600228|2.13|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2019600227|1.65|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600229|1.99|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2019600222|3.53|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2019600224|1.23|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2019600232|3.82|7340115|Marketing|Betty|Young|1|2003/01/13
+2019600233|3.08|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2019600230|1.22|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2019600231|3.48|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2019600206|1.13|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600205|1.22|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2019600207|3.54|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2019600203|3.78|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2019600204|3.16|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2019600214|2.18|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2019600221|3.54|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600211|2.24|7340115|Marketing|Betty|Young|1|2003/01/13
+2019600213|1.02|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2019600254|2.48|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2019600253|1.27|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2019600256|1.35|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2019600250|1.35|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2019600252|3.92|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2019600262|3.88|75103031|Kỹ thuật sản xuất thông minh|Martha|Richardson|1|2002/08/04
+2019600263|1.87|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2019600259|3.81|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2019600260|3.75|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2019600242|1.98|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2019600237|2.38|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2019600243|1.44|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2019600234|3.52|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600235|2.91|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2019600247|1.3|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2019600249|1.43|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2019600244|1.75|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2019600245|2.98|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2019600155|1.91|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2019600150|3.84|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600156|1.01|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2019600148|4|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2019600149|3.01|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600159|1.44|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600161|2.89|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2019600157|4|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2019600158|2.42|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2019600138|1.34|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2019600137|3.25|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2019600139|1.59|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600132|3.27|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600136|3.84|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600145|1.14|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600146|3.65|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600142|3.19|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2019600143|2.02|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2019600193|1.92|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2019600192|1.79|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600195|1.73|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2019600190|1.21|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2019600191|1.59|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600199|2.33|75103031|Kỹ thuật sản xuất thông minh|Martha|Richardson|1|2002/08/04
+2019600201|3.21|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2019600197|2.54|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600198|2.84|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2019600168|2.34|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2019600178|1.08|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2019600162|3.91|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2019600164|3.39|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2019600187|3.65|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2019600188|3.29|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2019600181|2.01|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2019600184|1.57|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2020600139|1.59|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600104|2.91|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2020600056|3.54|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2020600055|2.89|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2020600082|1.09|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2020600083|1.92|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2020600054|2.73|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2020600101|3.23|7340115|Marketing|Betty|Young|1|2003/01/13
+2020600078|1.35|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2020600059|1.8|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2020600095|2.14|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600138|1.34|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2020600137|3.25|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2020600094|1.95|7340115|Marketing|Betty|Young|1|2003/01/13
+2020600178|1.08|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600120|1.76|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2020600148|4|7480101|Khoa học máy tính|Joan|Edwards|1|2002/08/14
+2020600118|3.43|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2020600050|1.87|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2020600106|2.8|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2020600123|3.86|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2020600053|1.58|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2020600084|2.04|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2020600149|3.01|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600150|3.84|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2020600161|2.89|7480102|Mạng máy tính và truyền thông dữ liệu|Ann|King|1|2003/10/09
+2020600096|1.53|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2020600162|3.91|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2020600065|3.29|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2020600132|3.27|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600159|1.44|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2020600070|3.79|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2020600164|3.39|7229020|Ngôn ngữ học|Judy|Perez|1|2001/08/22
+2020600069|3.63|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2020600072|3.38|75103031|Kỹ thuật sản xuất thông minh|Martha|Richardson|1|2002/08/04
+2020600136|3.84|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600071|2.05|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2020600098|2.58|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2020600157|4|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2020600158|2.42|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2020600155|1.91|7340201|Tài chính - ngân hàng|Danielle|Lee|1|2004/10/07
+2020600060|1.66|7310104|Kinh tế đầu tư|Janet|Davis|1|2001/09/13
+2020600156|1.01|7340301|Kế toán|Amy|Thomas|1|2002/07/23
+2020600075|3.12|7510209|Robot và trí tuệ nhân tạo|Michelle|Mendoza|1|2001/01/21
+2020600076|2.8|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2020600168|2.34|7510203|Công nghệ kỹ thuật điện tử|Heather|Turner|1|2000/08/16
+2020600063|1.42|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2020600131|2.68|7220101|Tiếng Việt và Văn hóa Việt nam|Cheryl|Wood|1|2001/07/02
+2020600097|1.69|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2020600146|3.65|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600047|1.97|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2020600092|1.17|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2020600114|1.38|7480108|Công nghệ kỹ thuật máy tính|Shirley|Gonzales|1|2003/11/23
+2020600111|2.57|7340101|Quản trị kinh doanh|Melissa|Myers|1|2003/06/14
+2020600143|2.02|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2020600091|1.06|7320113|Công nghệ đa phương tiện|Victoria|Murphy|1|2002/07/18
+2020600187|3.65|7810101|Du lịch|Sandra|Peterson|1|2003/05/21
+2020600145|1.14|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600046|1.67|7810103|Quản trị dịch vụ du lịch và lữ hành|Frances|Evans|1|2004/04/11
+2020600043|1.95|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600090|2.25|7480103|Kỹ thuật phần mềm|Michelle|Hughes|1|2000/04/06
+2020600042|3.39|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2020600116|3.74|7510605|Logistics và quản lý chuỗi cung ứng|Catherine|Anderson|1|2000/10/07
+2020600142|3.19|7519003|Công nghệ kỹ thuật khuôn mẫu|Christina|Cooper|1|2003/02/06
+2020600040|2.18|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600184|1.57|7540101|Công nghệ thực phẩm|Pamela|Hughes|1|2002/02/20
+2020600181|2.01|7220209|Ngôn ngữ Nhật|Kayla|Stewart|1|2003/10/29
+2020600085|2.48|7510205|Công nghệ kỹ thuật ô tô|Mary|Stewart|1|2002/09/04
+2020600188|3.29|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2020600086|1.45|7340115|Marketing|Betty|Young|1|2003/01/13
+2020600113|2.32|75103021|Công nghệ kỹ thuật điện tử y sinh|Jacqueline|Cook|1|2002/03/09
+2020600088|1.67|7510213|Thiết kế cơ khí và kiểu dáng công nghiệp|Evelyn|Cruz|1|2002/02/10
+2020600117|1.54|7520118|Kỹ thuật hệ thống công nghiệp|Amanda|Ramos|1|2002/03/31
+2020600089|2.36|7480104|Hệ thống thông tin|Elizabeth|Johnson|1|2001/06/28
+2019600172|3.9|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2022600165|2.14|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2022600163|2.78|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2019600171|2.93|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2019600141|1.17|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2019600173|3.47|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2020600266|1.86|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600171|2.93|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2020600265|3.37|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2022600172|3.9|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2022600173|3.47|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600144|2.26|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2022600167|3.38|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2019600170|2.79|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2022600166|2.18|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2022600170|2.79|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2022600169|2.97|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2022600236|1.72|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2019600180|3.69|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2019600135|2.47|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2022600147|2.31|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2020600261|2.3|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2022600151|1.08|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2019600179|3.73|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600239|2.46|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2022600144|2.26|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2020600283|1.9|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2022600238|1.41|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2019600182|3.02|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2019600183|1.65|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2019600175|1.52|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2019600174|3.22|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2019600176|3.76|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2022600160|3.57|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600140|3.65|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2020600264|3.43|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2022600153|2.12|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600154|2.88|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2022600152|1.92|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2019600177|1.41|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2020600144|2.26|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2020600281|3.39|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2020600141|1.17|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2022600218|3.68|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2022600200|1.88|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2020600272|2.16|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2022600217|2.17|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2022600202|2.38|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2019600147|2.31|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2020600140|3.65|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2022600196|2.66|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600220|1.21|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600219|2.96|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600274|2.54|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2022600208|2.79|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2022600209|3.18|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600269|1.96|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2020600271|3.75|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2022600212|3.24|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2022600210|2.8|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2019600153|2.12|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600152|1.92|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2019600154|2.88|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2022600215|2.73|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2019600151|1.08|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2022600216|2.64|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600169|2.97|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2022600179|3.73|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600177|1.41|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2020600280|1.15|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600182|3.02|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2022600180|3.69|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2022600226|2.19|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2022600225|1.59|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2022600174|3.22|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2020600267|2.59|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2022600176|3.76|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2022600175|1.52|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2020600279|1.29|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2019600163|2.78|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2022600189|1.3|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2022600194|2.32|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600160|3.57|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600223|3.54|7720203|Hóa dược|Kimberly|Robinson|0|2004/05/19
+2019600167|3.38|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2022600185|3.31|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2022600183|1.65|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2019600166|2.18|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2019600165|2.14|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2022600186|1.66|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2020600121|2.72|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2020600122|2.42|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2022600052|3.68|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600311|2.3|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600306|2.87|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2022600061|3.97|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2022600057|2.19|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600058|2.64|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2022600045|1.65|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2020600314|3.3|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2019600236|1.72|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2022600044|1.13|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2020600119|3.12|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2022600051|3.46|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2022600048|1.22|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2022600049|2.78|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2020600303|2.19|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2022600073|2.62|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2019600223|3.54|7720203|Hóa dược|Kimberly|Robinson|0|2004/05/19
+2020600125|3.93|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2019600219|2.96|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600077|3.04|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2022600074|1.17|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2019600220|1.21|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600064|1.73|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600225|1.59|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2022600062|1.1|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2019600226|2.19|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2022600068|3.11|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600124|3.36|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2022600066|1.25|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2022600067|1.73|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2020600325|1.75|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2020600324|1.34|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2022600015|1.38|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2022600016|3.38|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2022600022|3.93|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2019600251|2.27|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600019|2.15|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2022600020|1.35|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600257|1.28|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2022600010|3.07|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2020600327|1.29|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2019600258|3.37|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2019600255|2.29|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600014|1.93|7720203|Hóa dược|Kimberly|Robinson|0|2004/05/19
+2022600011|3.84|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2020600326|1.97|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2019600241|1.76|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2022600037|3.1|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600318|2|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2020600316|3.88|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2019600238|1.41|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2022600041|1.8|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600240|3.77|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2019600239|2.46|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2020600320|3.47|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2022600028|3.89|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2020600322|1.34|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2019600248|1.12|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2022600031|2.39|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2022600032|3.81|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2019600246|1.21|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2020600115|2.91|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2022600121|2.72|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2022600122|2.42|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2022600119|3.12|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2020600289|1.68|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600125|3.93|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2022600126|1.51|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2020600133|3.71|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2022600124|3.36|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2022600112|2.02|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2020600292|2.57|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2022600110|2.07|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600293|2.76|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2019600196|2.66|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2019600194|2.32|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2020600291|3.92|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2022600115|2.91|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2020600134|2.57|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600135|2.47|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2022600135|2.47|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2019600189|1.3|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2022600141|1.17|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2019600185|3.31|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2019600186|1.66|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2022600140|3.65|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2022600129|1.6|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2022600130|3.22|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2022600127|3.38|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2022600128|1.03|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600133|3.71|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2022600134|2.57|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600287|1.81|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2020600286|1.53|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600212|3.24|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2020600300|3.18|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2020600301|3.67|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2022600087|2.15|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2019600208|2.79|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2022600093|2.34|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2019600210|2.8|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2019600209|3.18|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2022600080|2.44|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2022600081|3.61|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2019600218|3.68|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2022600079|2.37|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2019600215|2.73|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2020600302|2.75|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2019600217|2.17|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2019600216|2.64|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600103|1.54|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2022600105|2.84|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2019600202|2.38|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2022600102|3.87|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2022600108|1.24|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600109|3.95|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600200|1.88|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2022600107|3.11|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2020600128|1.03|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600129|1.6|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2020600126|1.51|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2020600127|3.38|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2022600099|2.77|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2022600100|2.52|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2020600130|3.22|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2019600049|2.78|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2022600415|3.19|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2019600051|3.46|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600217|2.17|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2019600048|1.22|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2020600216|2.64|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600416|1.69|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600417|3.09|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2022600406|1.59|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2020600219|2.96|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600404|3.44|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2022600405|2.94|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2022600410|3.92|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2019600052|3.68|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2022600408|3.15|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2020600218|3.68|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2022600429|3.19|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2022600430|1.18|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2020600173|3.47|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600041|1.8|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2020600210|2.8|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2022600434|2.14|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2020600212|3.24|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2020600174|3.22|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2022600422|3.78|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2022600423|2.51|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600215|2.73|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2019600045|1.65|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600044|1.13|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2020600172|3.9|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2022600424|1.51|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2020600226|2.19|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2022600384|2.88|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2022600381|2.64|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2022600382|2.88|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2022600387|1.3|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600067|1.73|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2022600385|2.24|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2019600068|3.11|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600167|3.38|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2022600376|1.76|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2022600373|2.6|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2022600374|1.56|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2022600379|2.95|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2022600380|2.21|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2022600377|3.55|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2020600170|2.79|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2019600058|2.64|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2022600396|3.67|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2020600223|3.54|7720203|Hóa dược|Kimberly|Robinson|0|2004/05/19
+2020600171|2.93|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2020600220|1.21|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600400|3.61|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600057|2.19|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600225|1.59|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2019600064|1.73|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600066|1.25|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2022600390|3.62|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2019600062|1.1|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2019600061|3.97|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600169|2.97|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2022600477|2.54|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2022600478|1.34|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600474|1.84|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2019600014|1.93|7720203|Hóa dược|Kimberly|Robinson|0|2004/05/19
+2019600010|3.07|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2022600482|3.37|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2020600194|2.32|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600011|3.84|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2020600183|1.65|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2022600470|3.44|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600019|2.15|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2022600468|3.31|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2019600016|3.38|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2019600015|1.38|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2020600196|2.66|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600494|3.68|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2019600002|2.26|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2019600004|3.16|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2019600003|3.38|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2019600001|2.68|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2020600189|1.3|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2022600496|3.16|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2022600497|2.4|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2022600485|1.92|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2020600186|1.66|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2022600483|3.15|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2020600185|3.31|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2019600005|2.34|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2022600491|1.84|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2022600488|3.78|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2022600444|3.56|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600032|3.81|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2020600176|3.76|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2022600443|2.01|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600177|1.41|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2022600450|1.85|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2019600031|2.39|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2022600447|2.66|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2019600037|3.1|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600209|3.18|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2022600435|2.94|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2022600436|3.72|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600175|1.52|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2022600441|2.87|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2020600208|2.79|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2019600022|3.93|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2022600462|3.1|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600200|1.88|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2022600460|3.63|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2022600465|2.69|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2022600466|1.8|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2020600182|3.02|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2019600020|1.35|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2020600179|3.73|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600202|2.38|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2019600028|3.89|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2022600452|2.3|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2020600180|3.69|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2022600457|3.9|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2022600455|2.47|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2020600251|2.27|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600110|2.07|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2019600112|2.02|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600283|1.9|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2019600109|3.95|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2022600289|1.68|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600286|1.53|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600287|1.81|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2022600274|2.54|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2019600115|2.91|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2022600272|2.16|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2020600255|2.29|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600280|1.15|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600281|3.39|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2020600151|1.08|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2022600279|1.29|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2019600102|3.87|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2022600300|3.18|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2020600153|2.12|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600103|1.54|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2022600303|2.19|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2020600248|1.12|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2022600301|3.67|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2022600302|2.75|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2022600292|2.57|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2022600293|2.76|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2019600108|1.24|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600291|3.92|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2020600152|1.92|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2019600105|2.84|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2019600107|3.11|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2019600128|1.03|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2022600251|2.27|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600248|1.12|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2019600129|1.6|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2019600125|3.93|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2022600255|2.29|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2019600127|3.38|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2019600126|1.51|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2019600134|2.57|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2019600133|3.71|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2022600240|3.77|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2022600241|1.76|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2022600246|1.21|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2019600130|3.22|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2020600147|2.31|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2022600265|3.37|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2022600266|1.86|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600257|1.28|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2022600264|3.43|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2022600269|1.96|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2022600271|3.75|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2022600267|2.59|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600119|3.12|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2022600258|3.37|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600258|3.37|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2019600124|3.36|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2022600257|1.28|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2022600261|2.3|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2019600121|2.72|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2019600122|2.42|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2022600351|2.49|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2022600352|1.45|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2022600349|1.43|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2020600163|2.78|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2020600165|2.14|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2019600074|1.17|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2022600353|1.02|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2019600077|3.04|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600080|2.44|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2022600345|3.64|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2022600341|1.63|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2019600081|3.61|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2022600347|1.07|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2022600348|3.9|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600079|2.37|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2022600367|3.94|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2022600368|2.97|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2022600365|3.08|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2020600166|2.18|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2022600371|1.23|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2022600372|1.63|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2022600369|1.61|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2022600370|1.73|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2019600073|2.62|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2022600361|2.43|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2022600358|3.63|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2022600359|1.53|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2022600363|3.45|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2022600364|1.29|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2022600362|1.62|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2022600318|2|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2020600241|1.76|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2019600093|2.34|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2022600316|3.88|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2022600322|1.34|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2020600239|2.46|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2022600320|3.47|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2020600240|3.77|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2019600099|2.77|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2020600154|2.88|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600100|2.52|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600306|2.87|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2022600311|2.3|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2022600314|3.3|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2020600246|1.21|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2022600334|1.67|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2022600335|3.26|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2019600087|2.15|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2022600332|1.52|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600236|1.72|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2020600160|3.57|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600336|3.33|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2022600337|1.83|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2022600326|1.97|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2022600327|1.29|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2022600324|1.34|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2022600325|1.75|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2022600329|1.59|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2020600238|1.41|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2022600328|3.23|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2020600415|3.19|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2020600073|2.62|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600154|2.88|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2020600416|1.69|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2021600160|3.57|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600435|2.94|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2020600074|1.17|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2019600436|3.72|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2019600443|2.01|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600417|3.09|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2019600444|3.56|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600147|2.31|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2021600152|1.92|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2021600153|2.12|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600441|2.87|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2021600151|1.08|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2021600173|3.47|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2021600174|3.22|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2021600171|2.93|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2021600172|3.9|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600177|1.41|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2020600410|3.92|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2021600175|1.52|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2021600176|3.76|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2021600165|2.14|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2021600166|2.18|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2019600434|2.14|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2021600163|2.78|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2021600169|2.97|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600170|2.79|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2021600167|3.38|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2021600121|2.72|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600122|2.42|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2021600119|3.12|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2019600455|2.47|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600125|3.93|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2021600126|1.51|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2020600424|1.51|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2021600124|3.36|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2019600460|3.63|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2020600066|1.25|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2021600110|2.07|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600112|2.02|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600457|3.9|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2020600068|3.11|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2021600115|2.91|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2020600067|1.73|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2020600422|3.78|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2019600450|1.85|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2021600134|2.57|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2021600135|2.47|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2019600447|2.66|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2021600144|2.26|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2021600140|3.65|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2021600141|1.17|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2021600129|1.6|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600130|3.22|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2021600127|3.38|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2021600128|1.03|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2019600452|2.3|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2021600133|3.71|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2020600423|2.51|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600396|3.67|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2021600225|1.59|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2019600408|3.15|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2021600223|3.54|7720203|Hóa dược|Kimberly|Robinson|0|2004/05/19
+2019600405|2.94|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2019600404|3.44|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600226|2.19|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2019600406|1.59|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2021600215|2.73|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2021600216|2.64|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2021600212|3.24|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600410|3.92|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2021600219|2.96|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2021600220|1.21|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2021600217|2.17|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2021600218|3.68|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2020600387|1.3|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2021600246|1.21|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600241|1.76|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2019600396|3.67|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600390|3.62|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2021600251|2.27|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2021600248|1.12|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2020600385|2.24|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2021600236|1.72|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2020600390|3.62|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2020600087|2.15|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2019600400|3.61|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600239|2.46|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2021600240|3.77|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2021600238|1.41|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2021600189|1.3|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2020600406|1.59|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2020600077|3.04|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2020600408|3.15|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2021600194|2.32|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600422|3.78|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2019600424|1.51|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2019600423|2.51|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2019600430|1.18|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2021600182|3.02|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600179|3.73|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2021600180|3.69|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2021600185|3.31|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2021600186|1.66|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2021600183|1.65|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2019600429|3.19|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600415|3.19|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2020600081|3.61|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2019600417|3.09|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2019600416|1.69|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2021600209|3.18|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600210|2.8|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2020600400|3.61|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600208|2.79|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2020600404|3.44|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600079|2.37|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2021600196|2.66|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600405|2.94|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2020600080|2.44|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2021600202|2.38|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2021600200|1.88|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2021600020|1.35|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2020600014|1.93|7720203|Hóa dược|Kimberly|Robinson|0|2004/05/19
+2020600015|1.38|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2021600019|2.15|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2020600049|2.78|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2020600011|3.84|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2021600022|3.93|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600457|3.9|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2021600011|3.84|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2020600048|1.22|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2020600019|2.15|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2021600010|3.07|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2021600016|3.38|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600016|3.38|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600014|1.93|7720203|Hóa dược|Kimberly|Robinson|0|2004/05/19
+2021600015|1.38|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2020600003|3.38|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2021600037|3.1|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600005|2.34|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2020600004|3.16|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2020600052|3.68|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600041|1.8|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2020600002|2.26|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2020600001|2.68|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2021600028|3.89|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2020600051|3.46|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600010|3.07|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2020600455|2.47|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600032|3.81|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2020600452|2.3|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2021600031|2.39|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600032|3.81|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2020600031|2.39|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600468|3.31|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2020600485|1.92|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2020600491|1.84|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2020600028|3.89|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2020600488|3.78|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2020600466|1.8|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2020600477|2.54|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2020600478|1.34|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600474|1.84|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2020600037|3.1|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600482|3.37|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2020600483|3.15|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2020600041|1.8|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2020600470|3.44|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2021600003|3.38|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2021600004|3.16|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2021600001|2.68|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2021600002|2.26|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2020600460|3.63|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2020600020|1.35|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600005|2.34|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2020600022|3.93|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600044|1.13|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2020600496|3.16|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2020600465|2.69|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2020600494|3.68|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600045|1.65|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2020600462|3.1|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600497|2.4|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2019600474|1.84|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2020600435|2.94|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2020600436|3.72|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2021600087|2.15|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2019600470|3.44|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2021600093|2.34|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2020600434|2.14|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2020600062|1.1|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2021600079|2.37|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2021600080|2.44|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2020600058|2.64|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2021600077|3.04|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600477|2.54|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2020600061|3.97|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2021600081|3.61|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2019600478|1.34|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600429|3.19|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600105|2.84|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600102|3.87|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2021600103|1.54|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2021600108|1.24|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2021600109|3.95|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600462|3.1|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2021600107|3.11|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2019600466|1.8|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600465|2.69|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2019600468|3.31|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2020600064|1.73|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2021600100|2.52|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2020600430|1.18|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2021600099|2.77|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2019600494|3.68|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600447|2.66|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2021600051|3.46|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600052|3.68|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600058|2.64|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2020600444|3.56|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600491|1.84|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2021600057|2.19|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2021600045|1.65|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600497|2.4|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2020600450|1.85|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2021600044|1.13|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2021600048|1.22|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2021600049|2.78|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2019600496|3.16|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2019600485|1.92|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2020600441|2.87|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2021600068|3.11|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600057|2.19|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2021600074|1.17|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2019600482|3.37|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2019600483|3.15|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2021600073|2.62|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2019600488|3.78|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2021600064|1.73|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2021600061|3.97|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2021600062|1.1|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2021600066|1.25|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2021600067|1.73|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2020600443|2.01|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600422|3.78|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2021600423|2.51|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600352|1.45|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2020600351|2.49|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2020600102|3.87|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2020600349|1.43|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2021600424|1.51|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2019600306|2.87|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2020600100|2.52|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600311|2.3|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2019600314|3.3|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2020600099|2.77|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2021600417|3.09|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600353|1.02|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2021600415|3.19|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2021600416|1.69|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2020600348|3.9|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2020600347|1.07|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2021600435|2.94|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2021600436|3.72|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2021600441|2.87|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2021600443|2.01|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600103|1.54|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2020600345|3.64|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600430|1.18|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2019600302|2.75|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2019600303|2.19|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600429|3.19|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600300|3.18|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2021600434|2.14|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600301|3.67|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2019600329|1.59|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2019600328|3.23|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2020600362|1.62|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600387|1.3|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600326|1.97|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2019600325|1.75|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2021600390|3.62|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2019600327|1.29|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2021600380|2.21|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600381|2.64|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2019600332|1.52|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600379|2.95|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2021600384|2.88|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2021600385|2.24|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2021600382|2.88|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600363|3.45|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2021600404|3.44|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600405|2.94|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2019600318|2|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2020600358|3.63|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600408|3.15|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2021600410|3.92|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2021600406|1.59|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2019600316|3.88|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2021600396|3.67|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600322|1.34|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2019600324|1.34|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2020600361|2.43|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2021600400|3.61|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2020600359|1.53|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2019600320|3.47|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2021600485|1.92|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2020600332|1.52|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600483|3.15|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2019600271|3.75|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600267|2.59|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600491|1.84|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2019600269|1.96|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2021600488|3.78|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2021600477|2.54|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2021600478|1.34|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600335|3.26|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600334|1.67|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600272|2.16|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2021600482|3.37|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2019600274|2.54|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2020600110|2.07|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2022600001|2.68|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2022600002|2.26|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2020600329|1.59|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2019600261|2.3|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2022600005|2.34|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2020600328|3.23|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2022600003|3.38|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2022600004|3.16|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2021600494|3.68|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2019600264|3.43|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2019600266|1.86|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2019600265|3.37|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2021600497|2.4|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2020600112|2.02|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2021600496|3.16|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2020600341|1.63|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2021600455|2.47|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600452|2.3|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2019600289|1.68|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2019600286|1.53|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2020600107|3.11|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2019600287|1.81|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2021600457|3.9|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2019600293|2.76|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2021600447|2.66|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2021600444|3.56|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2020600105|2.84|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2019600291|3.92|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2021600450|1.85|7510401|Công nghệ kỹ thuật hóa học|Jessica|Kelly|0|2002/07/23
+2019600292|2.57|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600280|1.15|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2021600470|3.44|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600281|3.39|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2021600468|3.31|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2020600336|3.33|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2021600474|1.84|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2019600279|1.29|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2020600337|1.83|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2021600462|3.1|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2019600283|1.9|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2021600460|3.63|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2020600108|1.24|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2021600465|2.69|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2021600466|1.8|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2020600109|3.95|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600293|2.76|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2019600369|1.61|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2021600291|3.92|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2021600292|2.57|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600365|3.08|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2019600364|1.29|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2019600368|2.97|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2019600367|3.94|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2019600372|1.63|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2021600286|1.53|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2021600283|1.9|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2019600373|2.6|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2021600289|1.68|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2019600370|1.73|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2021600287|1.81|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2019600371|1.23|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2019600359|1.53|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2019600358|3.63|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2019600361|2.43|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2020600377|3.55|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2021600314|3.3|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2020600374|1.56|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2021600311|2.3|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600376|1.76|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600302|2.75|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2021600303|2.19|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600300|3.18|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2021600301|3.67|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2019600362|1.62|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600306|2.87|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600363|3.45|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2020600381|2.64|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2019600382|2.88|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2019600384|2.88|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2021600261|2.3|7340406|Quản trị văn phòng|Kayla|Wright|0|2004/06/21
+2021600266|1.86|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2021600267|2.59|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600264|3.43|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2021600265|3.37|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2019600387|1.3|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2021600255|2.29|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2020600384|2.88|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2020600093|2.34|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2021600258|3.37|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2019600385|2.24|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2020600382|2.88|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2021600257|1.28|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2019600376|1.76|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600379|2.95|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2020600380|2.21|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600377|3.55|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2021600281|3.39|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2019600374|1.56|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2021600279|1.29|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2021600280|1.15|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2019600380|2.21|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600271|3.75|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600381|2.64|7340302|Kiểm toán|Laura|Smith|0|2003/04/10
+2021600269|1.96|7810202|Quản trị nhà hàng và dịch vụ ăn uống|Kathryn|Ward|0|2000/10/23
+2019600379|2.95|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2021600274|2.54|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2021600272|2.16|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2019600336|3.33|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2021600358|3.63|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2020600365|3.08|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2019600337|1.83|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2021600361|2.43|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2021600362|1.62|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600359|1.53|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2019600335|3.26|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
+2021600348|3.9|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600349|1.43|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2019600341|1.63|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2021600347|1.07|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2021600352|1.45|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2021600353|1.02|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2020600367|3.94|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2021600351|2.49|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600372|1.63|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2021600373|2.6|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2021600370|1.73|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2021600371|1.23|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2021600376|1.76|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600377|3.55|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2021600374|1.56|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600364|1.29|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2021600365|3.08|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2019600334|1.67|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600363|3.45|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2021600364|1.29|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2021600368|2.97|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600369|1.61|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2021600367|3.94|7210404|Thiết kế thời trang|Nicole|Smith|0|2002/04/07
+2021600325|1.75|7340125|Phân tích dữ liệu kinh doanh|Cynthia|Mitchell|0|2002/11/08
+2021600326|1.97|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2019600351|2.49|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600324|1.34|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2021600329|1.59|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2020600372|1.63|7220204|Ngôn ngữ Trung Quốc|Emma|Williams|0|2002/07/24
+2021600327|1.29|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2021600328|3.23|7510201|Công nghệ kỹ thuật cơ khí|Gloria|Long|0|2003/05/04
+2021600318|2|7540204|Công nghệ dệt, may|Virginia|Allen|0|2000/05/17
+2019600353|1.02|7310612|Trung Quốc học|Jessica|Bennet|0|2003/06/20
+2021600316|3.88|7220201|Ngôn ngữ Anh|Olivia|Thomas|0|2004/01/12
+2020600373|2.6|7510206|Công nghệ kỹ thuật nhiệt|Nancy|Ruiz|0|2001/01/24
+2019600352|1.45|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2021600322|1.34|7810201|Quản trị khách sạn|Cheryl|Allen|0|2001/06/04
+2021600320|3.47|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2019600345|3.64|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600341|1.63|7220210|Ngôn ngữ Hàn Quốc|Virginia|Alvarez|0|2002/06/07
+2019600347|1.07|7510303|Công nghệ kỹ thuật điều khiển và tự động hóa|Janice|Cook|0|2002/04/01
+2020600371|1.23|7510406|Công nghệ kỹ thuật môi trường|Samantha|Wright|0|2003/03/01
+2020600368|2.97|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2021600345|3.64|7520116|Kỹ thuật cơ khí động lực|Maria|Wilson|0|2001/02/23
+2020600370|1.73|7510302|Công nghệ kỹ thuật – Viễn thông|Kathleen|Reed|0|2001/02/01
+2020600369|1.61|7340404|Quản trị nhân lực|Emma|Wright|0|2003/04/12
+2019600348|3.9|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2021600334|1.67|7540203|Công nghệ vật liệu dệt, may|Catherine|Phillips|0|2001/04/24
+2019600349|1.43|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2021600332|1.52|7480201|Công nghệ thông tin|Grace|Nelson|0|2001/09/08
+2021600336|3.33|7510204|Công nghệ kỹ thuật cơ điện tử ô tô|Joyce|Davis|0|2000/02/16
+2021600337|1.83|7510301|Công nghệ kỹ thuật điện, điện tử|Anna|Long|0|2002/10/11
+2021600335|3.26|7519007|Năng lượng tái tạo|Janet|Baker|0|2001/04/27
