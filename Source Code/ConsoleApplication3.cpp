@@ -43,18 +43,13 @@ int_fast32_t main() {
 	choice = ElemQuantitySelection::renderMainView(isObjective);
 	int quantity = ElemQuantitySelection::getElemQuantity(choice);
 	ElemQuantitySelection::concatFilePath(path, datatype, to_string(quantity), order);
+	BenchmarksResult::renderMainView(selectedAlgors, path, order, datatype, isObjective, quantity);
 	
 
 
-	track(path);
-	track(datatype);
-	track(order);
-
-
-	cout << path;
-
-
-
+	//track(path);
+	//track(datatype);
+	//track(order);
 
 
 	//system("cls");

@@ -131,6 +131,9 @@
     <ClCompile Include="ElemQuantitySelection.cpp">
       <Filter>Views\Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BenchmarksController.cpp">
+      <Filter>Controllers\Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Complexity.h">
@@ -210,6 +213,9 @@
     </ClInclude>
     <ClInclude Include="ElemQuantitySelection.h">
       <Filter>Views\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BenchmarksController.h">
+      <Filter>Controllers\Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

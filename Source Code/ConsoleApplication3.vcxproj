@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="AlgorSelection.cpp" />
     <ClCompile Include="BasicSort.cpp" />
+    <ClCompile Include="BenchmarksController.cpp" />
     <ClCompile Include="BenchmarksResult.cpp" />
     <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="Complexity.cpp" />
@@ -159,6 +160,7 @@
     <ClInclude Include="AlgorSelection.h" />
     <ClInclude Include="AllLib.h" />
     <ClInclude Include="BasicSort.h" />
+    <ClInclude Include="BenchmarksController.h" />
     <ClInclude Include="BenchmarksResult.h" />
     <ClInclude Include="BubbleSort.h" />
     <ClInclude Include="Complexity.h" />

@@ -1,6 +1,8 @@
 #pragma once
 #include "InputController.h"
+
 #include <iomanip>
+
 class ElemQuantitySelection {
 public:
 	static size_t renderMainView(bool isObjective);

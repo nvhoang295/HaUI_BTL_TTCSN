@@ -8,5 +8,7 @@ class Decorator {
 public:
 	static void drawHr(int len);
 	static void renderAlgorsHeader();
+	static void renderBenchmarksHeader();
+	static void renderSortingProcess(int current, int total, string algorName);
 };
 

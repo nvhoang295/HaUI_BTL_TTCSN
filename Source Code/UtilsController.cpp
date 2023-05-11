@@ -65,3 +65,21 @@ bool UtilsController::isExistAlgorSelected(bool selectedAlgors[], size_t size) {
 	}
 	return 0;
 }
+
+string UtilsController::convertAlgorName(int algorIndex) {
+	switch (algorIndex) {
+	case 0:
+		return "Bubble Sort";
+	case 1:
+		return "Selection Sort";
+	case 2:
+		return "Insertion Sort";
+	case 3:
+		return "Merge Sort";
+	case 4 :
+		return "Quick Sort";
+	case 5:
+		return "Heap Sort";
+	}
+	return "";
+}

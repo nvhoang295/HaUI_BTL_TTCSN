@@ -16,5 +16,6 @@ public:
 	static bool checkYear(int year);
 	static bool isAllAlgorsSelected(bool selectedAlgors[], size_t size);
 	static bool isExistAlgorSelected(bool selectedAlgors[], size_t size);
+	static string convertAlgorName(int algorIndex);
 };
 
