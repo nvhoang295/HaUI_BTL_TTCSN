@@ -1,2 +1,50 @@
-﻿  BenchmarksResult.cpp
+﻿  AlgorSelection.cpp
+  BasicSort.cpp
+  BenchmarksController.cpp
+  BenchmarksResult.cpp
+  BubbleSort.cpp
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\BubbleSort.cpp(46,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Complexity.cpp
+  ConsoleApplication3.cpp
+  DataInitController.cpp
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\DataInitController.cpp(52,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\DataInitController.cpp(54,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DataSet.cpp
+  DatatypeSelection.cpp
+  Decorator.cpp
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\Decorator.cpp(32,39): warning C4129: '.': unrecognized character escape sequence
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\Decorator.cpp(35,39): warning C4129: '.': unrecognized character escape sequence
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\Decorator.cpp(38,39): warning C4129: '.': unrecognized character escape sequence
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\Decorator.cpp(41,39): warning C4129: '.': unrecognized character escape sequence
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\Decorator.cpp(44,39): warning C4129: '.': unrecognized character escape sequence
+  ElemQuantitySelection.cpp
+  FileController.cpp
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\FileController.cpp(153,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  HeapSort.cpp
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\HeapSort.cpp(135,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  InputController.cpp
+  InsertionSort.cpp
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\InsertionSort.cpp(52,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Inventory.cpp
+  Major.cpp
+  MergeSort.cpp
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\MergeSort.cpp(171,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OrderSelection.cpp
+  Generating Code...
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\OrderSelection.cpp(44): warning C4715: 'OrderSelection::getOrder': not all control paths return a value
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\FileController.cpp(141): warning C4715: 'FileController::readFile': not all control paths return a value
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\ElemQuantitySelection.cpp(37): warning C4715: 'ElemQuantitySelection::getElemQuantity': not all control paths return a value
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\DatatypeSelection.cpp(48): warning C4715: 'DatatypeSelection::getDatatype': not all control paths return a value
+  Compiling...
+  Person.cpp
+  PropFieldSelection.cpp
+  QuickSort.cpp
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\QuickSort.cpp(155,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SelectionSort.cpp
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\SelectionSort.cpp(44,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SortingAlgor.cpp
+  Student.cpp
+  UtilsController.cpp
+  Generating Code...
+D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\PropFieldSelection.cpp(62): warning C4715: 'PropFieldSelection::getPropField': not all control paths return a value
   ConsoleApplication3.vcxproj -> D:\Entertainment\Pet_Projects\BTL_TTCSN_v2\Source Code\x64\Debug\ConsoleApplication3.exe

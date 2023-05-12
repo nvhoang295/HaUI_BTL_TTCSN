@@ -92,9 +92,6 @@
     <ClCompile Include="AlgorSelection.cpp">
       <Filter>Views\Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FileSelectionView.cpp">
-      <Filter>Views\Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="BenchmarksResult.cpp">
       <Filter>Views\Source Files</Filter>
     </ClCompile>
@@ -175,9 +172,6 @@
     <ClInclude Include="AlgorSelection.h">
       <Filter>Views\Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="FileSelectionView.h">
-      <Filter>Views\Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="BenchmarksResult.h">
       <Filter>Views\Header Files</Filter>
     </ClInclude>
@@ -195,9 +189,6 @@
     </ClInclude>
     <ClInclude Include="Student.h">
       <Filter>Models\Infor\Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="AllLib.h">
-      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="DataInitController.h">
       <Filter>Controllers\Header Files</Filter>

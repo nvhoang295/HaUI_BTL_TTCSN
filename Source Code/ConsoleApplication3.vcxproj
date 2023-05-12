@@ -140,7 +140,6 @@
     <ClCompile Include="Decorator.cpp" />
     <ClCompile Include="ElemQuantitySelection.cpp" />
     <ClCompile Include="FileController.cpp" />
-    <ClCompile Include="FileSelectionView.cpp" />
     <ClCompile Include="HeapSort.cpp" />
     <ClCompile Include="InputController.cpp" />
     <ClCompile Include="InsertionSort.cpp" />
@@ -158,7 +157,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AlgorSelection.h" />
-    <ClInclude Include="AllLib.h" />
     <ClInclude Include="BasicSort.h" />
     <ClInclude Include="BenchmarksController.h" />
     <ClInclude Include="BenchmarksResult.h" />
@@ -170,7 +168,6 @@
     <ClInclude Include="Decorator.h" />
     <ClInclude Include="ElemQuantitySelection.h" />
     <ClInclude Include="FileController.h" />
-    <ClInclude Include="FileSelectionView.h" />
     <ClInclude Include="HeapSort.h" />
     <ClInclude Include="InputController.h" />
     <ClInclude Include="InsertionSort.h" />
